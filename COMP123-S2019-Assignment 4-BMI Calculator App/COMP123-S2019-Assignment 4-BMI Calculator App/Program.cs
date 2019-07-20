@@ -18,15 +18,22 @@ namespace COMP123_S2019_Assignment_4_BMI_Calculator_App
 {
     static class Program
     {
+        //declare Splash startForm
+        public static StartForm startForm;
+        public static BMICalculator bMICalculator;
         /// <summary>
-        /// 應用程式的主要進入點。
+        /// A Splash Screen that is displayed for 3 seconds and then displays the BMI App
         /// </summary>
         [STAThread]
         static void Main()
         {
+            
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new BMICalculator());
+            //create instance
+            startForm = new StartForm();
+            bMICalculator = new BMICalculator();
+            Application.Run(new StartForm());
         }
     }
 }
