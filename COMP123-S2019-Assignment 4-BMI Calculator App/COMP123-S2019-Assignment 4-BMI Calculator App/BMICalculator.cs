@@ -128,5 +128,15 @@ namespace COMP123_S2019_Assignment_4_BMI_Calculator_App
                 e.Handled = true;
             }
         }
+
+        private void ResetButton_Click(object sender, EventArgs e)
+        {
+            ImperialradioButton.Checked = true;
+            MetricradioButton.Checked = false;
+            HeighttextBox.Text = "";
+            WeighttextBox.Text = "";
+            ResulttextBox.Text = "";
+            BMItextBox.Text = "";
+        }
     }
 }
