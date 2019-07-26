@@ -40,19 +40,19 @@
             // 
             // WelcomeLabel
             // 
-            this.WelcomeLabel.AutoSize = true;
-            this.WelcomeLabel.Location = new System.Drawing.Point(140, 120);
+            this.WelcomeLabel.Location = new System.Drawing.Point(65, 138);
             this.WelcomeLabel.Name = "WelcomeLabel";
-            this.WelcomeLabel.Size = new System.Drawing.Size(525, 32);
+            this.WelcomeLabel.Size = new System.Drawing.Size(196, 131);
             this.WelcomeLabel.TabIndex = 0;
             this.WelcomeLabel.Text = "Welcome to  BMI Calculation System!";
+            this.WelcomeLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // StartForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(17F, 32F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.NavajoWhite;
-            this.ClientSize = new System.Drawing.Size(800, 600);
+            this.ClientSize = new System.Drawing.Size(320, 480);
             this.ControlBox = false;
             this.Controls.Add(this.WelcomeLabel);
             this.Font = new System.Drawing.Font("Verdana", 20F);
@@ -65,7 +65,6 @@
             this.Text = "StartForm";
             this.Load += new System.EventHandler(this.StartForm_Load);
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 

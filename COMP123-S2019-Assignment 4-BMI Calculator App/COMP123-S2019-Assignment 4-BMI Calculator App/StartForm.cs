@@ -28,5 +28,7 @@ namespace COMP123_S2019_Assignment_4_BMI_Calculator_App
         {
             Splashtimer.Enabled = true;
         }
+
+
     }
 }

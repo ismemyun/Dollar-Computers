@@ -13,27 +13,48 @@ namespace COMP123_S2019_Assignment_4_BMI_Calculator_App
 {
     public partial class BMICalculator : Form
     {
-        public double height { get; set; }
-        public double weight { get; set; }
-        public double bmi { get; set; }
-        public string result { get; set; }
+        /// <summary>
+        /// This is the contructor for the BMICalculatorForm.
+        /// </summary>
+        public double height;
+        public double weight;
+        public double bmi;
+        public string result;
 
         public BMICalculator()
         {
             InitializeComponent();
         }
 
+        /// <summary>
+        /// This is a shared event handler for the Imperial radioButton CheckedChanged event
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void ImperialradioButton_CheckedChanged(object sender, EventArgs e)
         {
+            Clear();
             HeightUnitLabel.Text = "Inch";
             WeighUnitLabel.Text = "Pound";
         }
 
+        /// <summary>
+        /// This is a shared event handler for the Metric radioButton CheckedChanged event
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void MetricradioButton_CheckedChanged(object sender, EventArgs e)
         {
+            Clear();
             HeightUnitLabel.Text = "metre";
             WeighUnitLabel.Text = "kg";
         }
+
+        /// <summary>
+        /// This is a shared event handler for the BMICalculator Load event
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void BMICalculator_Load(object sender, EventArgs e)
         {
             ImperialradioButton.Checked = true;
@@ -43,9 +64,14 @@ namespace COMP123_S2019_Assignment_4_BMI_Calculator_App
 
 
 
-
+        /// <summary>
+        /// This is a shared event handler for the CalculateBMI Button Click event
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void CalculateBMIButton_Click(object sender, EventArgs e)
         {
+            
             if (!(HeighttextBox.Text == "") && !(WeighttextBox.Text == ""))
             {
                 height = Convert.ToDouble(HeighttextBox.Text);
@@ -61,27 +87,32 @@ namespace COMP123_S2019_Assignment_4_BMI_Calculator_App
                 BMItextBox.Text = bmi.ToString("f2");
                 if (bmi <= 18.5)
                 {
-                    ResulttextBox.Text = "BMI SCALE : Underweight\r\nResult :\r\nless than 18.5";
+                    ResulttextBox.Text = "BMI SCALE : Underweight\r\nless than 18.5";
                     ResulttextBox.ForeColor = Color.Fuchsia;
                     BMItextBox.ForeColor = Color.Fuchsia;
+                    BMIprogressBar.Value = 25;
+                    
                 }
                 else if (bmi >= 18.5 && bmi < 24.9)
                 {
-                    ResulttextBox.Text = "BMI SCALE : Normal\r\nResult :\r\nbetween18.5 and 24.9";
+                    ResulttextBox.Text = "BMI SCALE : Normal\r\nbetween 18.5 and 24.9";
                     ResulttextBox.ForeColor = Color.DodgerBlue;
                     BMItextBox.ForeColor = Color.DodgerBlue;
+                    BMIprogressBar.Value = 50;
                 }
                 else if (bmi >= 25 && bmi < 29.9)
                 {
-                    ResulttextBox.Text = "BMI SCALE : Overweight\r\nResult :\r\nbetween25 and 29.9";
+                    ResulttextBox.Text = "BMI SCALE : Overweight\r\nbetween 25 and 29.9";
                     ResulttextBox.ForeColor = Color.DarkOrange;
                     BMItextBox.ForeColor = Color.DarkOrange;
+                    BMIprogressBar.Value = 75;
                 }
                 else
                 {
-                    ResulttextBox.Text = "BMI SCALE : Obese\r\nResult :\r\n30 or greater";
+                    ResulttextBox.Text = "BMI SCALE : Obese\r\n30 or greater";
                     ResulttextBox.ForeColor = Color.Crimson;
                     BMItextBox.ForeColor = Color.Crimson;
+                    BMIprogressBar.Value = 100;
                 }
             }
             else
@@ -93,17 +124,12 @@ namespace COMP123_S2019_Assignment_4_BMI_Calculator_App
             
         }
 
-        private void HeighttextBox_TextChanged(object sender, EventArgs e)
-        {
-            //heightDecimalExistence = false;
-            //string input = HeighttextBox.Text;
-            //Regex rg = new Regex(".");
-            //MatchCollection matchCollection = rg.Matches(input);
-            ////ResulttextBox.Text = matchCollection.Count.ToString();
-            //if (matchCollection.Count > 1)
-            //    heightDecimalExistence = true;
-        }
 
+        /// <summary>
+        /// This is a shared event handler for the inputtextBox KeyPress event
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void inputtextBox_KeyPress(object sender, KeyPressEventArgs e)
         {
             TextBox TheInputtextBox = sender as TextBox;
@@ -129,14 +155,31 @@ namespace COMP123_S2019_Assignment_4_BMI_Calculator_App
             }
         }
 
+
+        /// <summary>
+        ///  This is a shared event handler for the ResetButton Click event
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+
         private void ResetButton_Click(object sender, EventArgs e)
         {
             ImperialradioButton.Checked = true;
             MetricradioButton.Checked = false;
-            HeighttextBox.Text = "";
-            WeighttextBox.Text = "";
-            ResulttextBox.Text = "";
-            BMItextBox.Text = "";
+            Clear();
+            //HeighttextBox.Text = string.Empty;
+            //WeighttextBox.Text = string.Empty;
+            //ResulttextBox.Text = string.Empty;
+            //BMItextBox.Text = string.Empty;
+            //BMIprogressBar.Value = 0;
+        }
+        private void Clear()
+        {
+            HeighttextBox.Text = string.Empty;
+            WeighttextBox.Text = string.Empty;
+            ResulttextBox.Text = string.Empty;
+            BMItextBox.Text = string.Empty;
+            BMIprogressBar.Value = 0;
         }
     }
 }

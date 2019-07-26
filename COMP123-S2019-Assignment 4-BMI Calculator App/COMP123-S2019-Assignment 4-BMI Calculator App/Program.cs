@@ -7,18 +7,18 @@ using System.Windows.Forms;
 /*
  * Name : Chuyun Yang
  * Student : 301038102
- * Date : 2019/07/17
+ * Date : 2019/07/25
  * Description : BMI calculator app that allows users to enter their weight and height and 
  *               whether they are entering these values in Imperial or Metric units, then calculates 
  *               and displays the user's body mass index (BMI)
- * Vision : Ver_01-GUI
+ * Vision : Ver_01-GUI, Ver_02-Function, Ver_03-Splash Screen, Ver_04-ProgressBar
  */
 
 namespace COMP123_S2019_Assignment_4_BMI_Calculator_App
 {
     static class Program
     {
-        //declare Splash startForm
+        //declare Form
         public static StartForm startForm;
         public static BMICalculator bMICalculator;
         /// <summary>
@@ -33,7 +33,7 @@ namespace COMP123_S2019_Assignment_4_BMI_Calculator_App
             //create instance
             startForm = new StartForm();
             bMICalculator = new BMICalculator();
-            Application.Run(new StartForm());
+            Application.Run(startForm);
         }
     }
 }
