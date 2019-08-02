@@ -1,0 +1,47 @@
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\bin\Debug\COMP123-S2019-Assignment 5-Computers.exe.config
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\bin\Debug\COMP123-S2019-Assignment 5-Computers.exe
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\bin\Debug\COMP123-S2019-Assignment 5-Computers.pdb
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\obj\Debug\COMP123-S2019-Assignment 5-Computers.csprojAssemblyReference.cache
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\obj\Debug\COMP123_S2019_Assignment_5_Computers.Properties.Resources.resources
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\obj\Debug\COMP123-S2019-Assignment 5-Computers.csproj.GenerateResource.cache
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\obj\Debug\COMP123-S2019-Assignment 5-Computers.csproj.CoreCompileInputs.cache
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\obj\Debug\COMP123-S2019-Assignment 5-Computers.exe
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\obj\Debug\COMP123-S2019-Assignment 5-Computers.pdb
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\bin\Debug\EntityFramework.dll
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\bin\Debug\EntityFramework.SqlServer.dll
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\bin\Debug\Microsoft.Data.Tools.Components.dll
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\bin\Debug\Microsoft.Build.dll
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\bin\Debug\Microsoft.Build.Framework.dll
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\bin\Debug\System.Collections.Immutable.dll
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\bin\Debug\System.Threading.Tasks.Dataflow.dll
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\bin\Debug\EntityFramework.xml
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\bin\Debug\EntityFramework.SqlServer.xml
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\bin\Debug\zh-Hant\EntityFramework.resources.dll
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\bin\Debug\zh-Hant\Microsoft.Data.Tools.Components.resources.dll
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\bin\Debug\zh-Hant\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\bin\Debug\cs\Microsoft.Build.resources.dll
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\bin\Debug\de\Microsoft.Build.resources.dll
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\bin\Debug\en\Microsoft.Build.resources.dll
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\bin\Debug\es\Microsoft.Build.resources.dll
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\bin\Debug\fr\Microsoft.Build.resources.dll
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\bin\Debug\it\Microsoft.Build.resources.dll
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\bin\Debug\ja\Microsoft.Build.resources.dll
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\bin\Debug\ko\Microsoft.Build.resources.dll
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\bin\Debug\pl\Microsoft.Build.resources.dll
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\bin\Debug\ru\Microsoft.Build.resources.dll
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\bin\Debug\tr\Microsoft.Build.resources.dll
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\obj\Debug\COMP123_S2019_Assignment_5_Computers.Views.AboutForm.resources
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\obj\Debug\COMP123_S2019_Assignment_5_Computers.Views.ProductInfoForm.resources
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\obj\Debug\COMP123_S2019_Assignment_5_Computers.Views.SelectForm.resources
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\obj\Debug\COMP123_S2019_Assignment_5_Computers.Views.StartForm.resources
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\obj\Debug\COMP123-S2019-Assignment 5-Computers.csproj.CopyComplete
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\obj\Debug\COMP123_S2019_Assignment_5_Computers.Views.OrderForm.resources
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+F:\GitHub\COMP123-S2019-Assignment 5-Dollar Computers\COMP123-S2019-Assignment 5-Computers\COMP123-S2019-Assignment 5-Computers\obj\Debug\COMP123_S2019_Assignment_5_Computers.Views.SplashForm.resources
