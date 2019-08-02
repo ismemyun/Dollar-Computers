@@ -258,7 +258,7 @@
             this.BMIprogressBar.Size = new System.Drawing.Size(281, 36);
             this.BMIprogressBar.TabIndex = 13;
             // 
-            // BMICalculatorForm
+            // BMICalculator
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(14F, 33F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -269,7 +269,7 @@
             this.Margin = new System.Windows.Forms.Padding(6, 9, 6, 9);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
-            this.Name = "BMICalculatorForm";
+            this.Name = "BMICalculator";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "BMI Form";
             this.Load += new System.EventHandler(this.BMICalculator_Load);

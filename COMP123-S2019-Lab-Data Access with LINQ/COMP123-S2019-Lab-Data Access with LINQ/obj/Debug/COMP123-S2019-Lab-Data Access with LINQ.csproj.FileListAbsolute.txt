@@ -1,0 +1,11 @@
+F:\GitHub\COMP123-S2019-Lab-Data Access with LINQ\COMP123-S2019-Lab-Data Access with LINQ\bin\Debug\COMP123-S2019-Lab-Data Access with LINQ.exe.config
+F:\GitHub\COMP123-S2019-Lab-Data Access with LINQ\COMP123-S2019-Lab-Data Access with LINQ\bin\Debug\COMP123-S2019-Lab-Data Access with LINQ.exe
+F:\GitHub\COMP123-S2019-Lab-Data Access with LINQ\COMP123-S2019-Lab-Data Access with LINQ\bin\Debug\COMP123-S2019-Lab-Data Access with LINQ.pdb
+F:\GitHub\COMP123-S2019-Lab-Data Access with LINQ\COMP123-S2019-Lab-Data Access with LINQ\obj\Debug\COMP123-S2019-Lab-Data Access with LINQ.csprojAssemblyReference.cache
+F:\GitHub\COMP123-S2019-Lab-Data Access with LINQ\COMP123-S2019-Lab-Data Access with LINQ\obj\Debug\COMP123_S2019_Lab_Data_Access_with_LINQ.MainForm.resources
+F:\GitHub\COMP123-S2019-Lab-Data Access with LINQ\COMP123-S2019-Lab-Data Access with LINQ\obj\Debug\COMP123_S2019_Lab_Data_Access_with_LINQ.Properties.Resources.resources
+F:\GitHub\COMP123-S2019-Lab-Data Access with LINQ\COMP123-S2019-Lab-Data Access with LINQ\obj\Debug\COMP123-S2019-Lab-Data Access with LINQ.csproj.GenerateResource.cache
+F:\GitHub\COMP123-S2019-Lab-Data Access with LINQ\COMP123-S2019-Lab-Data Access with LINQ\obj\Debug\COMP123-S2019-Lab-Data Access with LINQ.csproj.CoreCompileInputs.cache
+F:\GitHub\COMP123-S2019-Lab-Data Access with LINQ\COMP123-S2019-Lab-Data Access with LINQ\obj\Debug\COMP123-S2019-Lab-Data Access with LINQ.exe
+F:\GitHub\COMP123-S2019-Lab-Data Access with LINQ\COMP123-S2019-Lab-Data Access with LINQ\obj\Debug\COMP123-S2019-Lab-Data Access with LINQ.pdb
+F:\GitHub\COMP123-S2019-Lab-Data Access with LINQ\COMP123-S2019-Lab-Data Access with LINQ\obj\Debug\COMP123_S2019_Lab_Data_Access_with_LINQ.AboutForm.resources

@@ -1,0 +1,10 @@
+F:\GitHub\COMP123-S2019-Lab-Windows Forms Common File Dialogs\COMP123-WindowsFormsCommonFileDialogs\COMP123-WindowsFormsCommonFileDialogs\bin\Debug\COMP123-WindowsFormsCommonFileDialogs.exe.config
+F:\GitHub\COMP123-S2019-Lab-Windows Forms Common File Dialogs\COMP123-WindowsFormsCommonFileDialogs\COMP123-WindowsFormsCommonFileDialogs\bin\Debug\COMP123-WindowsFormsCommonFileDialogs.exe
+F:\GitHub\COMP123-S2019-Lab-Windows Forms Common File Dialogs\COMP123-WindowsFormsCommonFileDialogs\COMP123-WindowsFormsCommonFileDialogs\bin\Debug\COMP123-WindowsFormsCommonFileDialogs.pdb
+F:\GitHub\COMP123-S2019-Lab-Windows Forms Common File Dialogs\COMP123-WindowsFormsCommonFileDialogs\COMP123-WindowsFormsCommonFileDialogs\obj\Debug\COMP123-WindowsFormsCommonFileDialogs.csprojAssemblyReference.cache
+F:\GitHub\COMP123-S2019-Lab-Windows Forms Common File Dialogs\COMP123-WindowsFormsCommonFileDialogs\COMP123-WindowsFormsCommonFileDialogs\obj\Debug\COMP123_WindowsFormsCommonFileDialogs.Form1.resources
+F:\GitHub\COMP123-S2019-Lab-Windows Forms Common File Dialogs\COMP123-WindowsFormsCommonFileDialogs\COMP123-WindowsFormsCommonFileDialogs\obj\Debug\COMP123_WindowsFormsCommonFileDialogs.Properties.Resources.resources
+F:\GitHub\COMP123-S2019-Lab-Windows Forms Common File Dialogs\COMP123-WindowsFormsCommonFileDialogs\COMP123-WindowsFormsCommonFileDialogs\obj\Debug\COMP123-WindowsFormsCommonFileDialogs.csproj.GenerateResource.cache
+F:\GitHub\COMP123-S2019-Lab-Windows Forms Common File Dialogs\COMP123-WindowsFormsCommonFileDialogs\COMP123-WindowsFormsCommonFileDialogs\obj\Debug\COMP123-WindowsFormsCommonFileDialogs.csproj.CoreCompileInputs.cache
+F:\GitHub\COMP123-S2019-Lab-Windows Forms Common File Dialogs\COMP123-WindowsFormsCommonFileDialogs\COMP123-WindowsFormsCommonFileDialogs\obj\Debug\COMP123-WindowsFormsCommonFileDialogs.exe
+F:\GitHub\COMP123-S2019-Lab-Windows Forms Common File Dialogs\COMP123-WindowsFormsCommonFileDialogs\COMP123-WindowsFormsCommonFileDialogs\obj\Debug\COMP123-WindowsFormsCommonFileDialogs.pdb
